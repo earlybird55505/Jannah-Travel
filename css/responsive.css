@@ -1,0 +1,576 @@
+/*---- XL Device :1200px----- */
+@media (min-width: 1450px) and (max-width: 1600px) {
+
+
+
+}
+
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+
+    
+}
+
+/*---- LG Device :992px----- */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .main-menu::before {
+        top: 16px;
+    }
+    .active .nav-link {
+        margin-top: 8px;
+    }
+    .home-slider-item h4 a {
+        font-size: 16px;
+    }
+
+    .input {
+        padding: 5px 35px 5px 45px;
+    }
+    
+    .subscribe-box .btn {
+        padding: 7px 79px;
+        margin-top: 14px;
+    }
+
+    .all-photos .img1 {
+        width: 98px;
+    }
+    .city-icon li img {
+        height: 25px;
+    }
+
+    .weather-temparature .centigrade {
+        right: 0px;
+    }
+
+    .tneding-content .comment-like {
+        padding-left: 250px;
+    }
+
+    .recent-img .country-n a {
+        top: 104px;
+        left: 195px;
+    }
+
+    .comment-like {
+        padding-left: 18px;
+    }
+}
+
+/*---- MD Device :768px----- */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .active .nav-link {
+        margin-top: 8px;
+    }
+
+    .main-menu::after {
+        bottom: 8px;
+        width: 720px;
+    }
+
+    .main-menu::before {
+        width: 720px;
+    }
+
+    .home-slider-item {
+        padding-top: 115px;
+        height: 235px;
+    }
+    
+    .home-slider-item h4 a {
+        font-size: 15px;
+    }
+
+    .home-slider-item span a {
+        top: 17px;
+        left: 13px;
+        font-size: 10px;
+    }
+
+    .home-slider-item .date {
+        font-size: 11px;
+    }
+
+    span.author, span.date {
+        font-size: 10px;
+    }
+
+    .comment-like {
+        font-size: 9px;
+    }
+
+    .all-photos .img1 {
+        width: 67px;
+    }
+
+    .about .img2 {
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .input {
+        padding: 5px 80px 5px 59px;
+        display: block;
+        margin-left: 158px;
+    }
+
+    form {
+        text-align: center;
+    }
+
+    form::after {
+        left: 176px;
+    }
+
+    .check-img {
+        height: 363px;
+    }
+
+    .weather-icon img {
+        display: inline-block;
+    }
+
+    .weather-box {
+        text-align: center;
+    }
+
+    .weather-temparature li {
+        display: block;
+    }
+
+    .weather-temparature .centigrade {
+        right: 153px;
+    }
+
+    .weather-temparature {
+        margin-left: -145px;
+    }
+
+    .weather-icon {
+        margin-left: 140px;
+    }
+
+    .social-icon {
+        text-align: center;
+    }
+
+    .follow1 {
+        margin: 15px;
+    }
+
+    .popular,
+    .follow-twitter {
+        margin: 30px 15px;
+    }
+
+    .baner2 {
+        text-align: center;
+    }
+
+    .footer-posts .img1 {
+        height: 50px;
+    }
+
+    .trending-box {
+        margin: 90px 15px 30px;
+    }
+
+    .recent-box {
+        margin: 15px;
+    }
+
+    .recent-img .country-n a {
+        top: 122px;
+        left: 230px;
+    }
+
+    .all-photos .media-icon {
+        top: 13%;
+        left: 25%;
+    }
+
+    .all-photos-1 .media-icon {
+        top: 0%;
+    }
+}
+
+/*---- Extra small Device ----- */
+@media (max-width: 767px) {
+
+    .active .nav-link {
+        margin-top: 8px;
+    }
+
+    .main-menu::before {
+        width: 540px;
+    }
+
+    .main-menu::after {
+        width: 540px;
+        bottom: 7px;
+    }
+
+    .home-slider-item {
+        margin-bottom: 30px;
+        height: 320px;
+        padding-top: 205px ;
+    }
+
+    .trips-menu li a {
+        padding: 6px 5px;
+        font-size: 10px;
+    }
+
+    .comment-like {
+        padding-left: 160px;
+    }
+
+    .trips-right {
+        margin-top: 30px;
+    }
+
+    .all-photos .img1 {
+        width: 97px;
+    }
+
+    form {
+        text-align: center;
+    }
+    
+    form::after {
+        left: 86px;
+    }
+
+    .trending-box {
+        margin: 90px 15px 0px 15px;
+    }
+
+    .tneding-content .comment-like {
+        padding-left: 140px;
+    }
+
+    .recent-img .country-n a {
+        top: 78px;
+        left: 147px;
+    }
+
+    span.author, span.date {
+        font-size: 8px;
+    }
+
+    .recent-content .comment-like {
+        padding-left: 22px;
+        font-size: 8px;
+    }
+
+    .weather-box {
+        margin: 90px 134px 0px 116px;
+    }
+
+    .weather-temparature .centigrade {
+        right: -9px;
+    }
+
+    .city-icon li img {
+        height: 25px;
+    }
+
+    .recent-box,
+    .recent-bottom,
+    .follow1,
+    .follow-twitter {
+        margin: 0px 15px 0px 15px;
+    }
+
+    .social-icon {
+        text-align: center;
+    }
+
+    .popular {
+        margin: 30px 15px 0px 15px;
+    }
+    
+    .baner2 {
+        text-align: center;
+        margin: 30px 0px;
+    }
+
+    .footer-tags,
+    .footer-posts {
+        margin-bottom: 25px;
+    }
+
+    .footer-img-content .col-20:nth-child(4),
+    .footer-img-content .col-20:nth-child(5) {
+        display: none;
+    }
+
+    .footer-img-content .col-20{
+        width: 33.3%;
+    }
+}
+
+
+/*---- SM Small Device :550px----- */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+
+    
+}
+
+/*---- XSM Small Device :400px----- */
+
+@media only screen and (min-width: 400px) and (max-width: 575px) {
+
+    .title {
+        font-size: 12px;
+    }
+
+    .active .nav-link {
+        margin-top: 8px;
+    }
+
+    .trips-menu li a {
+        display: none;
+    }
+
+    .comment-like {
+        padding-left: 70px;
+    }
+
+    form::after {
+        left: 22px;
+    }
+
+    .tneding-content .comment-like {
+        padding-left: 50px;
+        font-size: 8px;
+    }
+
+    .recent-img .country-n a {
+        display: none;
+    }
+
+    span.author, span.date {
+        font-size: 5px;
+    }
+
+    .recent-content .comment-like {
+        padding-left: 0px;
+        font-size: 5px;
+    }
+
+    span.comment {
+        padding-right: 2px;
+    }
+
+    .weather-box {
+        margin: 60px;
+    }
+
+    .weather-icon img {
+        height: 82px;
+    }
+
+    .footer-img-content .col-20:nth-child(3) {
+        display: none;
+    }
+
+    .footer-img-content .col-20{
+        width: 50%;
+    }
+
+    .bottom-right li a i {
+        width: 14px;
+    }
+
+    .bottom-left p {
+        font-size: 9px;
+    }
+
+}
+
+/*---- XXSM Small Device :280px----- */
+
+@media only screen and (min-width: 280px) and (max-width: 399px) {
+    
+    .home-slider-item h4 a {
+        font-size: 16px;
+    }
+
+    .active .nav-link {
+        margin-top: 8px;
+    }
+
+    .home-slider-item {
+        padding-top: 184px;
+        height: 293px;
+    }
+
+    .title {
+        font-size: 13px;
+    }
+
+    .trips-menu li {
+        display: none;
+    }
+
+    h3 .heading {
+        font-size: 14px;
+        line-height: normal;
+    }
+
+    .location {
+        font-size: 8px;
+    }
+
+    .comment-like {
+        padding-left: 9px;
+    }
+
+    span.author, span.date {
+        font-size: 6px;
+        padding: 0;
+    }
+
+    .comment-like {
+        font-size: 6px;
+    }
+
+    .trips-left {
+        padding: 113px 10px 15px 10px;
+    }
+
+    .img-content .city-time {
+        font-size: 6px;
+    }
+
+    .img-content .city-title {
+        font-size: 8px;
+    }
+
+    .all-photos {
+        text-align: center;
+    }
+
+    .input {
+        padding: 5px 33px 5px 40px;
+        font-size: 8px;
+    }
+
+    form::after {
+        left: 11px;
+    }
+
+    .subscribe-box .btn {
+        font-size: 8px;
+        padding: 5px 65px;
+    }
+
+    .tneding-content .heading {
+        font-size: 14px;
+    }
+
+    .country-n a {
+        font-size: 8px;
+    }
+
+    .tneding-content .comment-like {
+        padding-left: 16px;
+    }
+
+    .tneding-content {
+        padding: 180px 0px 16px 10px;
+    }
+
+    .tneding-content .country-n a {
+        display: none;
+    }
+    span.comment {
+        padding-right: 3px;
+    }
+
+    .tending-bottom .date1, .tending-bottom .comment1 {
+        display: none;
+    }
+
+    .tending-bottom h6 a {
+        font-size: 8px;
+    }
+
+    .recent-img .country-n a {
+        display: none;
+    }
+
+    .recent-content .author-date {
+        display: none;
+    }
+
+    .recent-content .comment-like {
+        display: none;
+    }
+
+    .recent-content h5 a {
+        font-size: 10px;
+        line-height: normal;
+    }
+
+    .recent-content p {
+        font-size: 8px;
+        line-height: 9px;
+    }
+
+    .weather-box {
+        margin: 0px;
+    }
+
+    .social-icon i {
+        font-size: 12px;
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+    }
+
+    .social-icon .count {
+        font-size: 10px;
+    }
+
+    .social-icon .fan {
+        font-size: 8px;
+    }
+
+    .footer-img-content .col-20:nth-child(3),
+    .footer-img-content .col-20:nth-child(2) {
+        display: none;
+    }
+
+    .footer-img-content .col-20{
+        width: 100%;
+    }
+
+    .bottom-left p {
+        font-size: 5px;
+    }
+
+    .bottom-right li a i {
+        font-size: 9px;
+        width: 12px;
+    }
+
+    .follow-btn2 li .active {
+        font-size: 8px;
+        padding: 0px 7px;
+    }
+    
+    .follow-btn2 .btn-down {
+        padding: 2px 2px;
+        font-size: 8px;
+    }
+
+    .trips-images .media-icon {
+        left: 22%;
+    }
+
+}
